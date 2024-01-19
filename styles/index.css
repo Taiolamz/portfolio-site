@@ -101,7 +101,7 @@ section {
 .custom-download-link:hover {
   /* text-decoration: underline; */
   color: #fff;
-  font-weight: 300;
+  /* font-weight: 300; */
 }
 
 .navbar {
