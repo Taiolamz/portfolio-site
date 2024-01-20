@@ -88,7 +88,7 @@ const counters = [
   { label: "SCSS", imgSrc: "./image/file-type-scss.svg" },
   { label: "Bootstrap", imgSrc: "./image/bootstrap.svg" },
   { label: "TypeScript", imgSrc: "./image/typescript-icon.svg" },
-  { label: "React", imgSrc: "./image/react.svg" },
+  { label: "React/React Native", imgSrc: "./image/react.svg" },
   { label: "NextJS", imgSrc: "./image/nextjs.svg" },
   { label: "VueJS", imgSrc: "./image/vue.svg" },
   { label: "NodeJS", imgSrc: "./image/nodejs.svg" },
